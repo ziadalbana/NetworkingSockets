@@ -1,0 +1,4 @@
+POST /index.html\r\n
+GET /text.txt\r\n
+GET /p.jpeg\r\n
+\r\n
